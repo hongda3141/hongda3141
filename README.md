@@ -53,7 +53,7 @@ I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 <!-- - :ghost: have a rest: [![Github Badge](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)](https://hongda3141.github.io/) -->
-- :ghost: [have a rest](https://hongda3141.github.io/)
+- :ghost: [have a rest: let`s play a wasm game!](https://hongda3141.github.io/)
 
 
 ---
