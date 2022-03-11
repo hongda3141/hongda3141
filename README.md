@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="static/head01.webp" width="100"/>
+  <img src="static/head01.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -31,20 +31,20 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="static/giphy1.gif" width="30px"/>
 </h1>
 
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="static/giphy1.gif" width="600" height="300"/>
 </div>
 
 ---
 
 ### :technologist: About Me :
 
-I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+I am a Rust Developer <img src="static/giphy1.gif" width="30"> from China.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web3 applications.
 
@@ -84,7 +84,7 @@ I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongda3141&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongda3141&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongda3141)](https://github.com/anuraghazra/github-readme-stats) -->
