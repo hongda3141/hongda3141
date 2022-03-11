@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="static/head01.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<!-- <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -27,17 +27,17 @@ Here are some ideas to get you started:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
-  <img src="static/giphy1.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
 
 <div align="center">
-  <img src="static/giphy1.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -52,7 +52,7 @@ I am a Rust Developer <img src="static/giphy1.gif" width="30"> from China.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :ghost: have a rest: [![Github Badge](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)](https://hongda3141.github.io/)
 
 
 ---
@@ -60,24 +60,20 @@ I am a Rust Developer <img src="static/giphy1.gif" width="30"> from China.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="toolpicture/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="toolpicture/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp; 
-  <img src="toolpicture/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
-  <img src="toolpicture/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
-  <img src="toolpicture/javascript-plain.svg" title="js" alt="js" width="40" height="40"/>&nbsp; 
-  <img src="./toolpicture/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="toolpicture/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp; 
-  <img src="toolpicture/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp; 
-  <img src="toolpicture/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; 
-  <img src="toolpicture/unix-original.svg" title="unix" alt="unix" width="40" height="40"/>&nbsp; <img src="toolpicture/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp; 
-  <img src="toolpicture/embeddedc-original.svg" title="embeddecode" alt="embeddecode" width="40" height="40"/>&nbsp; 
-  <img src="toolpicture/centos-original.svg" title="centos" alt="centos" width="40" height="40"/>&nbsp;
-  <img src="toolpicture/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="toolpicture/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="toolpicture/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp; 
-  <img src="./toolpicture/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/tree/master/icons/javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="unix" alt="unix" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;  -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
 </div>
 
 ---
@@ -99,3 +95,24 @@ I am a Rust Developer <img src="static/giphy1.gif" width="30"> from China.
 <!-- he workflow will replace the comment below with the list of published blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+<!-- 
+<div>
+  <img src="toolpicture/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="toolpicture/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp; 
+  <img src="toolpicture/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+  <img src="toolpicture/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
+  <img src="toolpicture/javascript-plain.svg" title="js" alt="js" width="40" height="40"/>&nbsp; 
+  <img src="./toolpicture/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="toolpicture/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp; 
+  <img src="toolpicture/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp; 
+  <img src="toolpicture/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; 
+  <img src="toolpicture/unix-original.svg" title="unix" alt="unix" width="40" height="40"/>&nbsp; <img src="toolpicture/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp; 
+  <img src="toolpicture/embeddedc-original.svg" title="embeddecode" alt="embeddecode" width="40" height="40"/>&nbsp; 
+  <img src="toolpicture/centos-original.svg" title="centos" alt="centos" width="40" height="40"/>&nbsp;
+  <img src="toolpicture/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="toolpicture/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="toolpicture/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp; 
+  <img src="./toolpicture/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+</div> -->
