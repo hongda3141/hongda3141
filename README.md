@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### :technologist: About Me :
 
-I am a Rust Developer <img src="static/giphy1.gif" width="30"> from China.
+I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web3 applications.
 
@@ -52,7 +52,8 @@ I am a Rust Developer <img src="static/giphy1.gif" width="30"> from China.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :ghost: have a rest: [![Github Badge](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)](https://hongda3141.github.io/)
+<!-- - :ghost: have a rest: [![Github Badge](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)](https://hongda3141.github.io/) -->
+- :ghost: [have a rest](https://hongda3141.github.io/)
 
 
 ---
