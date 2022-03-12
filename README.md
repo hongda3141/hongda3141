@@ -49,14 +49,16 @@ Here are some ideas to get you started:
 
 I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web3 applications.
+- :telescope: I’m working as a Rust/go Engineer and contributing to backend for building web3 applications.
+
+- :microscope: I use wasm-rust in IOT(Internet To Thing) services and focus on blockchain technology especially in libp2p and ink!.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 <!-- - :ghost: have a rest: [![Github Badge](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)](https://hongda3141.github.io/) -->
-- :ghost: [have a rest: let`s play a wasm game!](https://hongda3141.github.io/)
+- :ghost: [here is a wasm game!](https://hongda3141.github.io/)
 
 
 ---
