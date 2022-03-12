@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
-- :telescope: I’m working as a Rust/go Engineer and contributing to backend for building web3 applications.
+- :telescope: I’m working as a Rust/go Engineer and proficiency in Internet protocol of edge compute field such as opcua.
+
+- :seedling: I'm interested in p2p protocol stack such as libp2p.And also interested in Defi.
 
 - :microscope: I use wasm-rust in IOT(Internet To Thing) services and focus on blockchain technology especially in libp2p and ink!.
-
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
