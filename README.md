@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ### :technologist: About Me :
 
-I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+I am a Rust Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I’m working as a Rust/go Engineer and proficiency in Internet protocol of edge compute field such as opcua.
 
